@@ -12,7 +12,7 @@
 
 Nesse desafio, foi criada uma aplicação para treinar o que foi aprendido até agora no Node.js!
 
-Essa será uma aplicação para armazenar repositórios do um portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
+Essa será uma aplicação para armazenar repositórios de um portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
 ### Rotas da aplicação
 
@@ -31,9 +31,7 @@ O objetivo é adicionar código para atingir os objetivos de cada rota.
 
 ### Específicação dos testes
 
-Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
-
-Para esse desafio temos os seguintes testes:
+Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe:
 
 - [x] **`should be able to create a new repository`**: Para que esse teste passe, sua aplicação deve permitir que um repositório seja criado, e retorne um json com o projeto criado.
 
